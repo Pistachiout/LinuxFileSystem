@@ -1,0 +1,3 @@
+/home/luoqiyuan/桌面/file_system/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/luoqiyuan/桌面/file_system/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/luoqiyuan/桌面/file_system/cmake-build-debug/CMakeFiles/file_system.dir

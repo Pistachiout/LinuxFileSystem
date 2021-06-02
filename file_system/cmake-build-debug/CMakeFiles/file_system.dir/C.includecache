@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/luoqiyuan/桌面/file_system/head.h
+malloc.h
+-
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+time.h
+-
+
+/home/luoqiyuan/桌面/file_system/main.c
+head.h
+/home/luoqiyuan/桌面/file_system/head.h
+
